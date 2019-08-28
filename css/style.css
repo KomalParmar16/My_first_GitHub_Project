@@ -1,0 +1,226 @@
+.nav-bg
+{
+    background-color:  #f2f2f2;
+    height: 60px;
+}
+body
+{
+    margin: 0px;
+}
+.topnav {
+    width: 1200px; 
+    margin: 0px auto;
+}
+.topnav a {
+    float: left;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Roboto;
+  }
+  .topnav-right a.active {
+    color: #4CAF50;
+  }
+  .topnav-right {
+    float: right;
+  }
+  .bg-image 
+  {
+      background-image: url("../Image/bgimage.jpg");
+      opacity: 0.8;
+      height: 650px;
+      background-size: cover;
+      background-position: bottom;
+  }
+.topnav1
+{
+    position: relative;
+    width: 1200px;
+    margin: 0px auto;
+}
+  .topleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  .topleft h1
+  {
+  color: white;
+  font-size: 48px;
+  font-weight: 100;
+  padding: 70px 10px 2px 0px;
+  letter-spacing: 0.08em;
+  font-family: Roboto;
+  }
+  .topleft p
+  {
+  color: beige;
+  line-height: 34px;
+  letter-spacing: .08em;
+  font-size: 20px;
+  font-family: Roboto;
+  }
+  .Button1
+  {
+      background-color: transparent;
+      color: beige;
+      border: 2px solid white;
+      padding: 15px;
+      margin: 20px 10px 0px 0px;
+      font-size: 18px;
+      font-family: Roboto;
+  }
+  .Button1:hover
+  {
+      background-color: white;
+      color: black;
+  }
+  .paragarph
+{
+    width: 1200px;
+    margin: 0px auto;
+}
+.paragarph p
+{    
+    font-family: Roboto;
+    font-size: 33px;
+    margin: 70px 0px 70px 0px;
+    padding: 70px 0px 70px 0px;
+    line-height: 1.5;
+    font-weight: 100;
+}
+
+.image1 img
+{
+  width: 560px;
+    height: 500px;
+}
+.image1
+{
+  display: inline-block;
+}
+.fontstyle 
+{
+  margin: 54px;
+  vertical-align: top;
+  padding: 25px;
+  font-family: Roboto;
+}
+.fontstyle h3
+{
+  font-size: 34px;
+  font-weight: 100;
+}
+.fontstyle p
+{
+  font-size: 19px;
+}
+.part4
+{
+  display: inline-block;
+}
+
+.fontstyle2
+{
+  margin: 0px 272px -10px 99px;
+  padding-top: -20px;
+  padding-bottom: -116px;
+  font-size: 18px;
+  line-height: 1.3;
+  font-family: Roboto;
+}
+.fontstyle2 h5
+{
+  color: greenyellow;
+  font-size: 20px;
+  font-weight: 100;
+}
+.part4 img
+{
+  width: 688px;
+  float: right;
+  margin: -70px 0px 0px 0px;
+  
+
+}
+.color1
+{
+  
+  background-color: aqua;
+  margin: 0px 0px 20px 60px;
+  padding: 0px 0px 60px 90px;
+}
+.color1 p
+{
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 100;
+  line-height: 1.9;
+}
+.box-shadow
+{
+  width: 1200px;
+  margin: 100px auto;
+}
+ .box-shadow h1
+ { 
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 100;
+
+}
+.part5
+{
+  display: inline-block;
+  width: 27%;
+  font-size: 20px;
+  font-weight: 100;
+  text-align: justify;
+  vertical-align: top;
+  margin: 40px 18px 40px 18px;
+  padding: 20px 18px 20px 18px;
+  font-family: Roboto;
+  box-shadow: 1px 1px 2px white, 0 0 25px rgb(192, 196, 197), 0 0 5px rgb(197, 199, 201);
+}
+.part6
+{
+  width: 1200px;
+  margin: 100px auto;
+}
+.part6 h1
+{
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 100;
+}
+
+.big-block
+{
+  display: inline-block;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 20px 20px 0px 20px;
+}
+.block
+{
+  margin: 5px;
+  display: inline-block;
+}
+.block h4
+{
+  font-weight: 100;
+}
+.block p
+{
+  font-weight: 100;
+  font-size: 18px;
+  line-height: 1.6;
+  color: rgba(46, 44, 44, 0.64);
+}
+.block img
+{
+  padding: 0px 0px 70px 0px;
+}
